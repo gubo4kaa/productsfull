@@ -30,4 +30,6 @@ Node.js + PostgreSQL + TypeORM + Vite + React + Tailwind + Docker.
 ## 🧱 Структура проекта
 
 для запуска:
-создаём .env файлы (в корне в backend и frontend) из env.example
+- Создаём .env файлы (в корне в backend и frontend) из env.example
+- docker-compose up -d из конрня
+- Веб запустится на порту 5173 вашей Машины)

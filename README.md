@@ -25,11 +25,7 @@ Node.js + PostgreSQL + TypeORM + Vite + React + Tailwind + Docker.
 - Docker Compose  
 - (в планах) GitHub Actions для CI/CD
 
----
-
-## 🧱 Структура проекта
-
-для запуска:
+**Для запуска:**
 - Создаём .env файлы (в корне в backend и frontend) из env.example
 - docker-compose up -d из конрня
 - Веб запустится на порту 5173 вашей Машины)
